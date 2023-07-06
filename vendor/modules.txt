@@ -1,0 +1,2 @@
+# github.com/bep/gallerydeluxe v0.10.0
+## explicit; go 1.19
